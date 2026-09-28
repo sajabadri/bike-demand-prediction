@@ -1,0 +1,40 @@
+Leaves: 1,MAE: 46.04
+Leaves: 2,MAE: 46.30
+Leaves: 5,MAE: 47.87
+Leaves: 10,MAE: 51.30
+hr
+17    110.743352
+18     99.776538
+8      92.580157
+19     87.725330
+16     80.456978
+Name: Absolute_Error, dtype: float64
+    Actual  Predicted  Absolute_Error
+hr
+17  618.08     555.76          110.74
+18  562.01     530.21           99.78
+8   491.34     452.14           92.58
+19  411.56     381.97           87.73
+16  425.31     378.26           80.46
+Missing Values:
+instant       0
+dteday        0
+season        0
+yr            0
+mnth          0
+hr            0
+holiday       0
+weekday       0
+workingday    0
+weathersit    0
+temp          0
+atemp         0
+hum           0
+windspeed     0
+casual        0
+registered    0
+cnt           0
+dtype: int64
+
+Duplicate rows: 0
+Duplicate date-hour pairs: 0
